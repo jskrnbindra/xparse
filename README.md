@@ -24,6 +24,7 @@ cd xparse-env
 ```
 4. install dependencies
 ```bash
+cd ..
 pip3 install -r requirements.txt
 ```
 
